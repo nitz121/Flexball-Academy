@@ -1,4 +1,4 @@
-# Flexball Academy ⚽
+# Flexball Academy 
 
 Flexball Academy is an interactive football-themed game for learning CSS Flexbox. Players solve tactical drills by changing Flexbox properties until the team formation matches the instruction.
 
